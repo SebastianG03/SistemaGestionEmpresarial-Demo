@@ -1,0 +1,13 @@
+{
+  "siguiente_id": 2,
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "Este es un titulo de muestra",
+      "descripcion": "Esta es una descripcion que incluya varias lineas con copia y pega Sprint Planning: Al inicio de cada sprint, se reunirá el equipo con el Product Owner para definir los criterios de aceptación específicos de las funcionalidades del sprint en curso.",
+      "prioridad": "alta",
+      "estado": "en progreso",
+      "fecha_vencimiento": "2025-05-07T15:30:00"
+    }
+  ]
+}
